@@ -10,10 +10,8 @@
     "type": "git",
     "url": "https://github.com/sushant711/sk-freebase.git"
   },
-  "skDependencies": {
-    "sk-utils": "0.0.6"
-  },
   "dependencies": {
+    "sk-utils": "0.0.6",
     "http-get": "0.5.10",
     "superagent": "0.16.0"
   },
